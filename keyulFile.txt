@@ -1,5 +1,5 @@
-int solve(Request request)
+bool solve(Request requestObj)
 {
   c = a + b;
-  return c;
+  return z;
 }
