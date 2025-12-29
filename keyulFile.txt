@@ -1,0 +1,5 @@
+int solve(Request request)
+{
+  c = a + b;
+  return c;
+}
