@@ -1,5 +1,10 @@
 bool solve(Request requestObj)
 {
   c = a + b;
-  return z;
+  return c;
+}
+
+int isValid(Rquest request)
+{
+	return request is valid;
 }
