@@ -1,9 +1,9 @@
 bool lrsRequest(String request)
 {
-	return lrsObject;
+	return lrsReqestObject;
 }
 
-bool lrsResponse(String request)
+int lrsResponse(String request)
 {
-	return lrsResponse;
+	return lrsResponseObject;
 }
