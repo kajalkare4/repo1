@@ -2,3 +2,8 @@ bool lrsRequest(String request)
 {
 	return lrsObject;
 }
+
+bool lrsResponse(String request)
+{
+	return lrsResponse;
+}
