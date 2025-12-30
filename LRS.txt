@@ -1,0 +1,4 @@
+bool lrsRequest(String request)
+{
+	return lrsObject;
+}
